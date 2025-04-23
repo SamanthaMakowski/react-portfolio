@@ -20,10 +20,11 @@ export default function Portfolio() {
     },
     {
       title: 'React Portfolio',
-      image: '/react-portfolioGH.png',
+      image: '/react-portfolioSC.png',
       github: 'https://github.com/SamanthaMakowski/react-portfolio',
       deployed: 'https://6800c0e37a10c6d41050e057--iridescent-parfait-3644eb.netlify.app'
     },
+    
     {
       title: 'Note Keeper',
       image: '/note-keeperGH.png',
